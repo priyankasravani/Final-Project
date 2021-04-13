@@ -1,0 +1,189 @@
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/leaf_mold_tomato5x1200.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/october-bell-peppers.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/photo-764060.JPG.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/IU-TYLCV_img_8.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/607-155-0.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/late_blight_drought_leaves1x1200.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Cedar_apple_rust_on_crab_apple_leaf_showing_underside_cup.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/earlyblightpotato.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/corn-southern-rust-pustules.JPG?itok=VXIzyv8m.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/img_2509_b.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Tomato-brown-rugose-fruit-virus-ToBRFV-infected-tomato-Solanum-lycopersicum-plants_Q320.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/applescab_lf.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/slide10.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/corn-common-rust-f5-R.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/tomato-diseases-1-638.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/irish-blight-symptoms-on-potato-leaves-atmf8b.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/applescableaf.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/sls1.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/img_0853.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/A+A+Blueberry+Leaf+Disease+003.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Bacterial-spot-symptoms-on-pepper-leaves-for-web.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/2905.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/leaves.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/IMG_3166_1500x1500%253E.JPG?1473520197.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/128110613-56a6d3633df78cf7729070ad.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Early-bligh_t.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/IMG_7442%20resized_0.preview.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/01gb.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/clothes014.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/IMG_4695.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/2014-08-27%2B-%2BCloser%2BView%2Bof%2BSeptoria%2BLeaf%2BSpot.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/00c.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/squash-with-mildew-2x.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/stock-photo-blueberry-heap-with-green-leaves-close-up-macro-isolated-on-white-background-83867578.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/leaves-of-a-raspberry-stock-photo-1206396.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/gray%20leaf%20spot.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/lateblightTom_lesion3.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/tomato_leaf-mold_03_zoom.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/blueberry-leaves-safe.jpeg.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Late_Blight_2.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/muscari-raspberry-leaf-isolated-white-background-31953078.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/PHOTO_1333642740144.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/marioncalico2.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/tdisease12.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/LateBlt_FromRusinek.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/glma4_leaf_001.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/acfsca026527.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/IMG_4780.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/100_8283.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/depositphotos_15928367-stock-photo-soy-leaf.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/seriously-unwell-apple-tree-fruit-brown-and-split-yellow-spots-on-leaves-scab-P67H27.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/IMG_2666.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/SAM_0376.JPG.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/crabapple%20scab%20Snowdrift%201%20Crab%206-24-16.JPG.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Apple-Scab.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/a7710b5901ba1f8e9759ef7576cd9f09.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/dummen-tmv.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/leaf_mold1.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Late%20blight%20tomato1.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/depositphotos_6570375-stock-photo-strawberry-leaf.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/0805Fig3400.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/ab40cce958c60d8b6e0ec2e4fdb8f526.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/gardening+004.JPG.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/corn-mature-bacterial-leaf-streak.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/grape-vines-3876069.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/early%20blight.tom_.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/glfspot.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/20130515+008.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Raspberry-leaf-tea-benefits-_-Ayurvedum.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/7.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/bacterial-leaf-streak-of-corn.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/southern-rust-upper-side-576x1024.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/110608-01-8356c-lg.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/16874340125_eb222f747b_z.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/20100824septoria.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/image_300x300%2523.jpeg?1472603885.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/grape-leaves-2.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/rust1_600px-2emtnhc.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/16569580047_a720c56ee0_z.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/TCSV_Pepper%20%285%29.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Aug+22+052.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/7-blueberry-leaves.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/1058_0.jpeg?itok=OQkdtxgv.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/early-blight-closeup-NCSU.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/tomato-leaves-17427786.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/3761.400x400_0_0.jpeg.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/Leaf+mold+tomato+%25282%2529.JPG.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/nclb-2015-n-mcghee.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/nPP7P.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/green-pepper-plant-diseases-bacterial-spot-on-pepper-plant-green-pepper-plant-diseases-photos.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/tomato_q1hq-early-blight-5052_zoom.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/markjones-corn-001.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/dsc5582.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/483255d3dc56a615ebaa5b424309913c--raspberry-plants-red-raspberry.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/red-apple-leaves-309078.jpg
+drive/MyDrive/Plants/Sample/PlantDoc-Object-Detection-Dataset/train_images/CTG514794.jpg
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Late_blight/fc759d3f-64c7-4e45-9a0c-5a2f07fd1055___RS_LB 3030.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Early_blight/6bd7d398-9cce-4282-a853-9625a641ebd6___RS_Early.B 8416.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Bacterial_spot/a1d009f1-ed05-40a3-a0c0-68c4a36c0ca2___GCREC_Bact.Sp 3381.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/f2d3fadc-0142-4425-b731-6d95464a211d___Com.G_SpM_FL 8612.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/81b06de5-7a1a-40e5-8626-81004a3ed36f___YLCV_GCREC 2801.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/548ac4de-ccf8-45b0-bd2e-84d4456427dd___Com.G_SpM_FL 8553.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/ee0dd8c0-8db2-4eff-8e4d-76cb146f2b34___GH_HL Leaf 166.2.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Septoria_leaf_spot/3ddb7094-9ee7-473d-8a01-b48ce8eda506___Matt.S_CG 6719.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Septoria_leaf_spot/0edb366d-1253-4498-a05a-8f666405edc6___Matt.S_CG 7862.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/35b953f7-9a61-4295-8191-c43837dbe99e___YLCV_NREC 0063.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/1a02fa87-a194-482e-b4ac-8dec2064d793___RS_HL 0022.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Late_blight/a7097c51-bb53-4149-8140-4b9c3d94dbd4___RS_LB 4108.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/1f3c081d-ddf4-48f7-884b-08b3a5b3ae0a___Com.G_SpM_FL 1307.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Late_blight/3a0033d6-2efc-4926-a9eb-3969d815d630___RS_LB 5144.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/56dc8448-9bd3-4055-8d53-7a898963c586___UF.GRC_YLCV_Lab 08422.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Septoria_leaf_spot/aa1d512a-2d97-4f5c-a9f5-f2698f50b120___Matt.S_CG 6608.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Target_Spot/561035d5-0c4e-4705-a1b3-d0e46192d8b0___Com.G_TgS_FL 1097.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/44fb2e9a-d988-4760-8f56-50b120a955ef___YLCV_NREC 0189.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Target_Spot/04889d08-6298-45d8-ab6c-0119fd1c2104___Com.G_TgS_FL 0778.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Early_blight/34b0f33c-be8b-4338-9334-5418a5f84f28___RS_Early.B 7532.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Pepper__bell___healthy/03ab4bf1-bae1-4031-ac4d-14e43a29c397___JR_HL 8013.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_mosaic_virus/0c676b36-7985-42e8-b550-83e2b1c55535___PSU_CG 2177.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Bacterial_spot/53fbf33e-78a4-4e56-862b-69b2eed0d72e___GCREC_Bact.Sp 3047.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/7e6b55eb-7f0a-40c1-a49d-f304636387b1___YLCV_NREC 2293.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Leaf_Mold/27e8bb41-97a2-44b7-95e2-fd3b2e99f317___Crnl_L.Mold 7064.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Bacterial_spot/1ade5ae9-2b62-4d53-86ae-fee9d3d9a7e9___UF.GRC_BS_Lab Leaf 0777.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/0a0d6a11-ddd6-4dac-8469-d5f65af5afca___RS_HL 0555.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/5790959b-506b-42f6-b281-93479fbf07c2___UF.GRC_YLCV_Lab 09364.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Pepper__bell___healthy/cebd3420-b698-43d1-a961-aeeb850a130f___JR_HL 8693.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Late_blight/8e864e28-d161-4888-bf90-fd9467bfe9c2___RS_LB 4574.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/45760f36-c7f6-4e07-aefa-b1ca27a4bc54___UF.GRC_YLCV_Lab 01862.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Pepper__bell___healthy/a3625d3c-77a8-4013-8aa8-926f2b19e23c___JR_HL 7569.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_mosaic_virus/49a98ba1-a1b1-4d4b-85af-29aa6648fc64___PSU_CG 2292.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Late_blight/3a6faf8e-3b27-4498-aca9-45f9e4158a56___GHLB2 Leaf 112.1.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/253ae572-3c75-4781-b05b-e5ca1cf3df14___YLCV_GCREC 2874.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Bacterial_spot/65476dd0-6a5b-4623-b97d-96d74dcdbe03___GCREC_Bact.Sp 3842.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Leaf_Mold/a47a2d12-bac3-43c8-88d3-0f35e6884381___Crnl_L.Mold 8688.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/6080e4bb-3213-4074-8012-324bdfbc6583___YLCV_NREC 2469.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Pepper__bell___healthy/53f174d6-faad-427c-9d22-ca04786f3a9a___JR_HL 8352.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Late_blight/7b343a4c-5fbc-40f6-83da-ccae49ebd5fb___GHLB_PS Leaf 35 Day 13.jpg
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/4ec2fa28-9621-4a7b-96c4-25df7208f684___UF.GRC_YLCV_Lab 03166.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/e0987875-8fe2-49ee-8f01-e29281c3d790___RS_HL 0239.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/02d94768-da6d-4c1a-b8b3-fa2e5a2fcd4d___RS_HL 0449.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Late_blight/014d4972-1301-46d3-afc4-56470b774137___GHLB2 Leaf 8831.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Target_Spot/e4d49981-3d94-4a22-bba7-2be41b0fc65f___Com.G_TgS_FL 9880.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/43b8aec7-59df-413d-9afd-9cbf481695fd___UF.GRC_YLCV_Lab 09423.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Late_blight/29e924db-ef09-49f2-9db3-e3c548a444d5___GHLB_PS Leaf 17.1 Day 9.jpg
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/5a79ccbc-ed73-4870-8a2d-6e305c78f76b___Com.G_SpM_FL 8530.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/940f3c45-f5e4-4805-8a4d-1c2e288d9fb1___YLCV_GCREC 1942.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Late_blight/9e1dc573-9cc5-4bc1-9c95-63c7bfba54f1___RS_LB 2976.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/80dd8c2f-a53b-425c-b065-6c8b856cfe52___Com.G_SpM_FL 1247.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/1dd207c1-1fbe-454a-b63f-8051bb26aea8___Com.G_SpM_FL 1161.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Septoria_leaf_spot/ac451373-bee8-4c45-b6f8-86c4031062e7___Matt.S_CG 7501.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/cdf3b1b8-c0dd-45dc-98dd-3a95be77e0a3___Com.G_SpM_FL 9538.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Late_blight/8f93f47b-2ee7-482b-9e18-20af5eb98d79___RS_LB 4889.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Early_blight/3e7543bc-4792-4b65-afd9-f9ccd52b7319___RS_Early.B 8571.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Late_blight/46ae5fef-ca7d-4f8d-86dc-7906bfcbde9f___RS_Late.B 5092.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/6ba1a088-7c79-4511-8257-4809fe5a9cc6___Com.G_SpM_FL 1720.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/e9f02b46-dbb7-4f41-a1dc-6fe5dfe13d23___RS_HL 9821.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/c8ac701f-23a1-45e5-9a3e-455b19d65479___Com.G_SpM_FL 8744.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Late_blight/760a8072-2979-49aa-a6bf-e075151758d8___RS_Late.B 5089.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Late_blight/c57464ef-c813-4ee5-90db-2b196b996d57___GHLB2 Leaf 154.3.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Early_blight/22b653c4-9e15-4081-8ece-9b5950a94120___RS_Erly.B 7814.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Late_blight/fdc86644-2491-4ace-b7e3-190e1d68ebba___RS_LB 5129.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Early_blight/f8babb7d-af2d-495c-9d99-cf215c8c67af___RS_Erly.B 9462.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/591c89ff-a75f-4613-b06d-4f3fbf6c426c___GH_HL Leaf 435.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Pepper__bell___healthy/5aab6778-8eb7-4397-8912-0ef8a54d8c01___JR_HL 8046.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/3be7ae8c-bacb-4877-b6b5-c2251d22b431___GH_HL Leaf 497.1.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Late_blight/5f473bdb-1899-4877-8d8f-df2e94996d1f___RS_Late.B 6266.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Early_blight/e3b74c49-7e82-4094-8a02-5ae7644a1d00___RS_Erly.B 7393.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/91e2b204-69a4-4170-82bd-fb9cb8b1407d___Com.G_SpM_FL 8973.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/c1fe17e6-7776-4f80-a048-6095504dd0cf___RS_HL 9690.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Early_blight/7227b3db-c212-4370-8b42-443eea1577aa___RS_Early.B 7306.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/4bc43590-d621-42f1-af1f-dcd3038feb68___UF.GRC_YLCV_Lab 02799.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Target_Spot/869801b6-ffd5-4895-82ec-91b59d4aa4de___Com.G_TgS_FL 0948.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/53f206f5-574e-4416-9e0c-69e3fb8bfa8e___UF.GRC_YLCV_Lab 08473.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Late_blight/4215b9d5-c554-4249-80e1-aeaf2106e966___RS_LB 2977.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Pepper__bell___Bacterial_spot/9df5753b-f4d3-440f-a8a2-3140875436c2___JR_B.Spot 3171.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Tomato_YellowLeaf__Curl_Virus/844653ae-8a16-434b-82c9-e4ad7dadb867___YLCV_GCREC 2816.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Early_blight/3b0f2e65-0005-4b3a-b63c-4ec99b3b92e5___RS_Erly.B 8227.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/4a3665bf-932d-4526-95a6-e491354df4ff___Com.G_SpM_FL 1541.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/6acdfc27-7fc5-47c9-bbe9-153ac4a3b797___Com.G_SpM_FL 9014.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato__Target_Spot/c9f65975-c39a-4d7c-9056-298de8e72317___Com.G_TgS_FL 1017.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Bacterial_spot/f58a3d12-29e7-4f43-a189-fa80df8f8e72___GCREC_Bact.Sp 5691.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Septoria_leaf_spot/3dd0d199-7106-4d78-8594-18d01a00aff3___JR_Sept.L.S 8539.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/58d19fbc-49ee-4738-b0e0-88afd097cefb___Com.G_SpM_FL 8715.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/2db25538-8655-4530-95e8-025d428e158c___Com.G_SpM_FL 9522.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_healthy/17cffb66-bb7f-433c-88b4-442c1f4e8cb4___RS_HL 9708.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Late_blight/5576794b-902c-4df2-ae8d-da30faa37d5d___RS_LB 4443.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Pepper__bell___Bacterial_spot/bb696cc0-eef2-40e1-a0c0-9df002d0d413___NREC_B.Spot 9243.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Pepper__bell___healthy/890ec9d5-8497-4984-b149-b29bc683b838___JR_HL 7615.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Potato___Early_blight/e6d7262c-803d-4346-a36d-4f384196e21c___RS_Early.B 6893.JPG
+drive/MyDrive/Plants/PlantVillage/PlantVillage/Tomato_Spider_mites_Two_spotted_spider_mite/1075cc73-3ea9-47c1-a92d-98cda4b222b7___Com.G_SpM_FL 9467.JPG
